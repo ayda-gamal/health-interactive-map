@@ -1,0 +1,30 @@
+{
+  "1752682521052": {
+    "originalName": "logo Qalyobya.jpg",
+    "fileName": "1752682521052.jpg",
+    "size": 26729,
+    "url": "${appResourceUrl}/images/widget_280/1752682521052.jpg",
+    "created": 1752682521052,
+    "resourcesPrefix": "images/widget_280",
+    "referredIds": [],
+    "originId": "1752682521052",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 290,
+    "originalHeight": 357
+  },
+  "1752682537826": {
+    "originalName": "logo.png",
+    "fileName": "1752682537826.png",
+    "size": 12525,
+    "url": "${appResourceUrl}/images/widget_264/1752682537826.png",
+    "created": 1752682537826,
+    "resourcesPrefix": "images/widget_264",
+    "referredIds": [],
+    "originId": "1752682537826",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 102,
+    "originalHeight": 102
+  }
+}
