@@ -1,0 +1,21 @@
+{
+  "1751763106051.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1751763106051.png",
+    "properties": {
+      "filename": "1751763106051.png",
+      "originalName": "logo.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1751763106051.png",
+      "inlineSvg": false
+    }
+  },
+  "1751763142525.jpg": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1751763142525.jpg",
+    "properties": {
+      "filename": "1751763142525.jpg",
+      "originalName": "logo Qalyobya.jpg",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1751763142525.jpg",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
