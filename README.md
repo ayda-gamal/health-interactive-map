@@ -53,7 +53,7 @@ Project for visualizing the intersection between health and environment.
 
 ### 🔗 Live Applications
 
-- 🌍 [Geo Healthy App]((https://ayda-gamal.github.io/health-interactive-map/Geo%20Healthy%20App/)
+- 🌍 [Geo Healthy App]((https://ayda-gamal.github.io/health-interactive-map/GeoHealthyApp/)
 - 🧭 [Interactivema]([https://your-app-link.com](https://ayda-gamal.github.io/health-interactive-map/Interactivema/))
 
 
